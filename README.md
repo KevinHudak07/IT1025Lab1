@@ -5,11 +5,12 @@ This is an example, please delete and create your own professional summary:
 The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
 
 ## Information System Components
-The five components of information systems are hardware, software, data, people, and processes. Hardware is the physical parts of information systems, composed of objects like computers, keyboards, and hard drives. Software is a group of instructions that control what the hardware does, it consists of operating systems and application software. Data is a group of facts put together, consisting of information about someone or something. The people are a big contribution to information systems, they consist of people like developers, officers, and support staff. 
+The five components of information systems are hardware, software, data, people, and processes. Hardware is the physical parts of information systems, composed of objects like computers, keyboards, and hard drives. Software is a group of instructions that control what the hardware does, it consists of operating systems and application software. Data is a group of facts put together, consisting of information about someone or something. The people are a big contribution to information systems, they consist of people like developers, officers, and support staff. Lastly, the process is a series of steps that help achieve a goal in the system.
 ## GitHub
 ### Client - Server Architecture
+Client-Server is a way to connect an application or a device to a mainframe called a server. Servers control the things that people are able to do with their device. They also allow different people to access the same data as each other. GitHub uses Client-Server architecture as it controls some things that we can see and it also allows us to interact with one another.
 ### Cloud Computing
-
+Cloud Computing allows people to easily access the same data from multiple places rather than from just their PC. It allows them to use the same data from their PC on their phones or other mobile devices.
 ## Hardware
 ### Hard Drives and Memory
 #### Latency and Transfer Rates
