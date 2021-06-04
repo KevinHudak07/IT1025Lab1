@@ -14,7 +14,7 @@ Cloud Computing allows people to easily access the same data from multiple place
 ## Hardware
 ### Hard Drives and Memory
 #### Latency and Transfer Rates
-The Hard Drive Latency is the average time it takes for a sector being assesed to move into a position under a head after a seek. The Seek Time is the amount of time for a hard drive to read and write a head. The Hard Drive Transfer Rate is the speed that data is transfered to (and from) disk media. Host transfer rate is the speed that a host computer can tra
+The Hard Drive Latency is the average time it takes for a sector being assesed to move into a position under a head after a seek. The Seek Time is the amount of time for a hard drive to read and write a head. The Hard Drive Transfer Rate is the speed that data is transfered to (and from) disk media. Host transfer rate is the speed that a host computer can transfer information to another computer.
 #### Solid State vs. Hard Drives
 #### Random Access Memory
 ### ALU and the Control Unit
