@@ -18,6 +18,7 @@ The Hard Drive Latency is the average time it takes for a sector being assesed t
 #### Solid State vs. Hard Drives
 Traditional Hard Drives are made up of many moving parts including pieces like heads and spindles. They have many needs that they must meet in order to read or write data, including being properly clean and their disk must be spinning. Solid State Hard drives are a much easier way of storing and using data. They don't use any moving parts and instead stores data with memory. Solid State Drives use NAND or SDRAM as they can do the same functions that the hard drives disk can do. Solid state drives can access data much faster than normal hard drives are able to. Also, they are less likely to break than normal hard drives are and are more likely to work well.
 #### Random Access Memory
+Increasing the RAM makes a computer run faster because it increases the memory. If the memory is too low then some information must be stored on the hard drive instead of moving directly to the computer. Increasing the RAM allows information to be moved off of the hard drive and to the computer, increasing the speed of the computer. 64 or 32 bit data paths mean the amount of bits that are transfered in a clock cycle. 64 bit data paths are able to transfer 64 bits in a clock cycle while 32 bit data paths transfer 32 bits in a clock cycle, the more bits transfered means that you will have a faster computer.
 ### ALU and the Control Unit
 ### CPU, Input & Output
 ### Logic Gates 
