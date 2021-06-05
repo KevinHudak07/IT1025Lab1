@@ -16,6 +16,7 @@ Cloud Computing allows people to easily access the same data from multiple place
 #### Latency and Transfer Rates
 The Hard Drive Latency is the average time it takes for a sector being assesed to move into a position under a head after a seek. The Seek Time is the amount of time for a hard drive to read and write a head. The Hard Drive Transfer Rate is the speed that data is transfered to (and from) disk media. Host transfer rate is the speed that a host computer can transfer information to another computer.
 #### Solid State vs. Hard Drives
+Traditional Hard Drives are made up of many moving parts including pieces like heads and spindles. They have many needs that they must meet in order to read or write data, including being properly clean and their disk must be spinning. Solid State Hard drives are a much easier way of storing and using data. They don't use any moving parts and instead stores data with memory. Solid State Drives use NAND or SDRAM as they can do the same functions that the hard drives disk can do. Solid state drives can access data much faster than normal hard drives are able to. Also, 
 #### Random Access Memory
 ### ALU and the Control Unit
 ### CPU, Input & Output
