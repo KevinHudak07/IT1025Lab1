@@ -20,7 +20,9 @@ Traditional Hard Drives are made up of many moving parts including pieces like h
 #### Random Access Memory
 Increasing the RAM makes a computer run faster because it increases the memory. If the memory is too low then some information must be stored on the hard drive instead of moving directly to the computer. Increasing the RAM allows information to be moved off of the hard drive and to the computer, increasing the speed of the computer. 64 or 32 bit data paths mean the amount of bits that are transfered in a clock cycle. 64 bit data paths are able to transfer 64 bits in a clock cycle while 32 bit data paths transfer 32 bits in a clock cycle, the more bits transfered means that you will have a faster computer.
 ### ALU and the Control Unit
+If the ALU wanted to put two of its inputs together the Control Unit would receive the command from the RAM and then the Control Unit would tell the ALU what to do. After this the ALU would perform that action and output the answer. Sometimes the ALU won't output an answer if it's a compare command, instead it would just tell the Control Unit how the imputs compare. After this the ALU would use flags to help the Control Unit decide what to do next. The ALU can also store answers in a register, which is connected to the ALU. In order to save the data in the register the Control Unit must turn on the set wire. To retrieve the data the Control Unit must turn on the enable wire, allowing the data to be shared.
 ### CPU, Input & Output
+
 ### Logic Gates 
 ### IEEE - Ethically Aligned Design
 
