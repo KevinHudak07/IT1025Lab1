@@ -22,10 +22,11 @@ Increasing the RAM makes a computer run faster because it increases the memory. 
 ### ALU and the Control Unit
 If the ALU wanted to put two of its inputs together the Control Unit would receive the command from the RAM and then the Control Unit would tell the ALU what to do. After this the ALU would perform that action and output the answer. Sometimes the ALU won't output an answer if it's a compare command, instead it would just tell the Control Unit how the imputs compare. After this the ALU would use flags to help the Control Unit decide what to do next. The ALU can also store answers in a register, which is connected to the ALU. In order to save the data in the register the Control Unit must turn on the set wire. To retrieve the data the Control Unit must turn on the enable wire, allowing the data to be shared.
 ### CPU, Input & Output
-
+The CPU when you're filling up gas would be the dollar counter in the gas tank, which would determine the cost for how much fuel you input. The input would be the fuel itself, you'd be inputting the fuel to make the car run. The output would be that your car would drive and it would emit CO2.
 ### Logic Gates 
+A truth table is a table that shows the output for every input, these are made up of ones and zeros. AND tables will only have an output of one if all of the inputs are one, otherwise it will have an output of zero. On the otherhand, OR tables will always have an output of one unless all of the inputs are zero.
 ### IEEE - Ethically Aligned Design
-
+IEEE's main goal is to improve technology in the world. They employ many kinds of jobs now, like doctors and physicists, rather than just engineers. IEEE's approaches to ethics is very powerful. They want to create a fair working space for their engineers and employees as well as bring attention to many ethical problems.They also want to try and help their workers succeed by helping them with their education.
 ## Conclusion
 This is an example, please delete and create your own professional summary:
 Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
