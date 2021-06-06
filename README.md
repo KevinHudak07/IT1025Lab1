@@ -1,8 +1,7 @@
 ## Kevin Hudak / June 2nd, 2021
 
 ## Executive Summary
-This is an example, please delete and create your own professional summary:
-The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
+In this lab I will learn about the basis of technology. I will also learn how to create repositories and understand how to use GitHub. This lab will teach me about how technology is evolving and what it was like when it was first invented. All in all, I will learn about how technology works and the basics of GitHub. 
 
 ## Information System Components
 The five components of information systems are hardware, software, data, people, and processes. Hardware is the physical parts of information systems, composed of objects like computers, keyboards, and hard drives. Software is a group of instructions that control what the hardware does, it consists of operating systems and application software. Data is a group of facts put together, consisting of information about someone or something. The people are a big contribution to information systems, they consist of people like developers, officers, and support staff. Lastly, the process is a series of steps that help achieve a goal in the system.
@@ -28,5 +27,4 @@ A truth table is a table that shows the output for every input, these are made u
 ### IEEE - Ethically Aligned Design
 IEEE's main goal is to improve technology in the world. They employ many kinds of jobs now, like doctors and physicists, rather than just engineers. IEEE's approaches to ethics is very powerful. They want to create a fair working space for their engineers and employees as well as bring attention to many ethical problems.They also want to try and help their workers succeed by helping them with their education.
 ## Conclusion
-This is an example, please delete and create your own professional summary:
-Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
+During this lab I learned about the basis of computers and technology. The lab showed me some components of computers as well as how the parts work together. I also learned about how technology improved over time and how different current technology is from what it used to be. Overall, I've learned many things about technology that I did know before I started this class.
